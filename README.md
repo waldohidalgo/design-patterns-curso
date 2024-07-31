@@ -2,25 +2,17 @@
 
 Repositorio resumen del curso [**Design Patterns** dado en Linkedin Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2). El curso abarca los siguientes design principles:
 
-- Single Responsability: a class should have only one reason to change
+- **Single Responsability**: a class should have only one reason to change
 
-- Loose coupling: strive for loosely coupled designs between objects that interact
+- **Loose coupling**: strive for loosely coupled designs between objects that interact
 
-- Use composition rather than inheritance:classes should achieve code reuse using composition rather than inheritance from a superclass. This allows for a more flexible design.
+- **Use composition rather than inheritance**:classes should achieve code reuse using composition rather than inheritance from a superclass. This allows for a more flexible design.
 
-- Program to an interface, not an implementation: clients remain unaware of the specific types of objects they use, as long as the objects adhere to the interface that clients expect
+- **Program to an interface, not an implementation**: clients remain unaware of the specific types of objects they use, as long as the objects adhere to the interface that clients expect
 
-- Encapsulate what varies: identify the aspects of your application that vary and separate them from what stays the same
+- **Encapsulate what varies**: identify the aspects of your application that vary and separate them from what stays the same
 
-- Open-closed: clases should be open for extension but closed for modification
-
-- Encapsulation
-
-- Abstraction
-
-- Polymorphism
-
-- Inheritance
+- **Open-closed**: classes should be open for extension but closed for modification
 
 Y los patrones de diseño siguientes:
 
